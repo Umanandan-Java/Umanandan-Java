@@ -48,17 +48,17 @@ Tools       →  Git  |  Postman  |  Vercel  |  WhatsApp Business Cloud API
 - 🇮🇳 **Smart India Hackathon (SIH) 2024** — E-Consultation Dashboard with Sentiment Analysis, live on Vercel
 - ⚛️ **Quantum Valley Hackathon** (AP State Govt.) — Job Tracker for IBM Quantum Computer
 
+<!--
 ---
 
 ### 📈 GitHub Stats
 
-<p align="center">
+ <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Umanandan-Java&show_icons=true&theme=tokyonight&hide_border=true" width="47%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Umanandan-Java&theme=tokyonight&hide_border=true" width="47%"/>
-</p>
+</p> 
 
----
-
+--- -->
 ### 🎓 Education
 
 - 🎓 **MCA** — Acharya Nagarjuna University *(2024–2026)*
